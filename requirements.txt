@@ -1,0 +1,9 @@
+#langchain-astradb
+#langchain-community
+#langchain 
+#langchain-groq
+#pypdf
+#python-dotenv
+#pandas
+#flask
+-e .
